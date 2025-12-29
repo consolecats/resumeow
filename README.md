@@ -5,7 +5,7 @@
 ### Free, Open-Source, ATS-Friendly Resume Builder
 
 [![Live link](https://img.shields.io/badge/Live%20Demo-resumeow.consolecats.com-blue?style=for-the-badge)](https://resumeow.consolecats.com)
-[![Beata test versions link](https://img.shields.io/badge/Live%20Demo-resumeow.consolecats.com-blue?style=for-the-badge)](https://https://catsplayground.qzz.io/)
+[![Beata test versions link](https://img.shields.io/badge/Test%20Versions%20Preview-resumeow.consolecats.com-blue?style=for-the-badge)](https://https://catsplayground.qzz.io/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](#license)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](https://github.com/consolecats/resumeow/issues)
 
